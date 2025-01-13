@@ -21,12 +21,11 @@
 
 #entete {
     margin-top: 70px;
-    padding-left: 450px;
+    padding-left: 390px;
     text-align:center;
     color: black;
-    font-weight:bold;
     font-family:"Ubuntu", serif;
-    font-size:30px;
+    font-size:40px;
 }
 
 #main { margin-top: 3px;
@@ -34,7 +33,7 @@
     flex-direction:row;
     align-items:flex-start;
     justify-content:center;
-
+    font-family: "Ubuntu"; serif;
 }
 
 #experiences {
@@ -70,10 +69,11 @@ h2{
     text-decoration: underline;
     font-size: 30px;
 }
+
 h3{
     font-size:20px ;
 }
+
 footer{text-align: center;
- 
-    
 }
+
